@@ -1,0 +1,1 @@
+# vacation-spot-finder
